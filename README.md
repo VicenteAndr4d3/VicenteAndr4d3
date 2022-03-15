@@ -16,6 +16,8 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
+Irei adicionando conforme irei finalizando novos aprendizados!
+
 ## Tecnologias em desenvolvimento... 📚
 
 <div style="display: inline_block">
@@ -23,10 +25,10 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div><br/>
 
+Foco atualmente em javascript!
+
 ## Contato
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/vicenteandrade)
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vicenteandrad)
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicenteandrad.code@gmail.com)
